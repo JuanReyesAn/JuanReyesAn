@@ -15,6 +15,7 @@
 - 1.Gym, I love feeling strong.
 - 2.making video edits, it inspires my creativity imagining a video with music and visuals is super fun ( you can see my videos [https://www.instagram.com/oneshyguy2o/]).
 - I was a mail man
+<img width="226" height="350" alt="image" src="https://github.com/user-attachments/assets/8c6d25c1-f60c-4afd-b5b3-48fb7dcef2d9" />
 
 - 
 ## How to Reach Me
