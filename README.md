@@ -7,6 +7,7 @@
 - head of Tiger body of a human
 - if I had to delete 3 apps
 - 0      |    1    |     2     |     3    |
+-  :---- | :----:  | :-------: | -------: |
 - delete | tiktok  |apple news | Facebook |
 - keep   | texts   | Camera    |  maps     |
 - Favorite podcasts would be "Pints With Aquinas" ,and "this past weeknd" with theo von
@@ -14,6 +15,8 @@
 - 1.Gym, I love feeling strong.
 - 2.making video edits, it inspires my creativity imagining a video with music and visuals is super fun ( you can see my videos [https://www.instagram.com/oneshyguy2o/]).
 - I was a mail man
+
+- 
 ## How to Reach Me
 
 
