@@ -1,15 +1,8 @@
 # Hi my name is Juan
 
 ## About me
-- im a student in the 2026 Science bootcamp at CNM Ingenuity
+- Im a student in the 2026 Science bootcamp at CNM Ingenuity
 - signed up for the bootcamp to learn how to pursue a carrer as a data analyst
-- currently working at Chipotle mexican grill
-- head of Tiger body of a human
-- if I had to delete 3 apps
-- 0      |    1    |     2     |     3    |
--  :---- | :----:  | :-------: | -------: |
-- delete | tiktok  |apple news | Facebook |
-- keep   | texts   | Camera    |  maps     |
 - Favorite podcasts would be "Pints With Aquinas" ,and "this past weeknd" with theo von
 - Hobbies
 - 1.Gym, I love feeling strong.
